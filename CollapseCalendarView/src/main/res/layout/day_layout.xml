@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.wefika.calendar.widget.DayView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_btn_calendar"
+    android:gravity="center"
+    android:paddingBottom="8dp"
+    android:paddingTop="8dp"
+    android:textColor="@color/text_calendar"
+    android:textSize="18sp"
+    custom:dot_color="@color/mainColor"
+    custom:dot_radius="1.5dp"
+    custom:text_bottom_color="@color/text_calendar"
+    custom:text_bottom_size="10dp"
+    custom:text_bottom_text="手术"
+    />

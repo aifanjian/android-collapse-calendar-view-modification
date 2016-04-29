@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="day">
+        <attr name="state_current" format="boolean"/>
+        <attr name="dot_radius" format="dimension|reference"/>
+        <attr name="dot_color" format="color|reference"></attr>
+        <attr name="text_bottom_color" format="color|reference"/>
+        <attr name="text_bottom_size" format="dimension|reference"/>
+        <attr name="text_bottom_text" format="string|reference"/>
+
+    </declare-styleable>
+
+    <attr name="calendarViewStyle" format="reference"/>
+
+</resources>
